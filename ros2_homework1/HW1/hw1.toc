@@ -1,0 +1,17 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {0}Setup}{2}{section.0}%
+\contentsline {section}{\numberline {1}Beginner: CLI tools}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Configuring environment}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Using \texttt {turtlesim, ros2} and \texttt {rqt}}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Understanding nodes}{8}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Understanding topics}{9}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Understanding services}{15}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Understanding parameters}{18}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Understanding actions}{21}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Using \texttt {rqt\_console} to view logs}{24}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Launching nodes}{26}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Recording and playing back data}{27}{subsection.1.10}%
+\contentsline {section}{\numberline {2}Beginner: Client libraries (C++)}{29}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Using colcon to build packages}{29}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Creating a workspace}{31}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Creating a package}{33}{subsection.2.3}%

@@ -1,0 +1,29 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "hw1.xdv" "hw1.pdf" "hw1" 0 -1
+  "hw1.xdv" 1754305561.4658 233612 d9337497b8cf05ffce075490abacc1ad "xelatex"
+  (generated)
+  "hw1.pdf"
+  (rewritten before read)
+["xelatex"] 1754942269.12026 "hw1.tex" "hw1.xdv" "hw1" 1754942269.29477 2
+  "/usr/share/texmf-dist/tex/generic/babel-english/english.ldf" 1742685315 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
+  "/usr/share/texmf-dist/tex/generic/babel/babel.sty" 1742685315 143388 b008e1666520ff43d0878397f2926242 ""
+  "/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-en.ini" 1742685315 3966 caeee5a9e5771d4446aa1ca9015ba1b2 ""
+  "/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex" 1742685315 336 ed676b5e7dfd862bc78d634f6a973f37 ""
+  "/usr/share/texmf-dist/tex/generic/babel/xebabel.def" 1742685315 18647 20e1dbde92e1fb200b527e2910aff7ff ""
+  "/usr/share/texmf-dist/tex/generic/iftex/iftex.sty" 1742685315 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1742685315 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1742685315 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "/usr/share/texmf-dist/tex/latex/base/size12.clo" 1742685315 8449 ffe4ba2166a344827c3a832d1d5e0a91 ""
+  "/usr/share/texmf-dist/tex/latex/geometry/geometry.sty" 1742685315 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1742685315 2671 70891d50dac933918b827d326687c6e8 ""
+  "/usr/share/texmf-dist/tex/latex/titling/titling.sty" 1742685315 7358 95ac619994bd30d405a74f3eca431c84 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1742685315 42087 b0f9697c952c8f5a8eede4134282cb0d ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1754942253 4491487 c5a9d4863c6b35c9801f68ff789ee156 ""
+  "algorithm.sty" 0 -1 0 ""
+  "hw1.aux" 1754305561.2008 2819 6b4d7e00273bf0aab63722def6f20d7d "xelatex"
+  "hw1.tex" 1754942268.63241 23846 594ad83ba6a02e77e747ad405775062d ""
+  (generated)
+  "hw1.aux"
+  "hw1.log"
+  "hw1.xdv"
+  (rewritten before read)
