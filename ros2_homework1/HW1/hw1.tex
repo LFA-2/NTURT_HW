@@ -828,7 +828,50 @@ ros2 run turtlesim turtlesim_node
 \newpage
 \subsection{Creating a package}
 Before proceeding to this step, I went through the official CMake tutorial to make sure I understand the whole concept.
+\begin{enumerate}
+	\item Create a package\\
+		In the directory \texttt{~/ros2\_ws/src}:
+\begin{lstlisting}[language=bash]
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 --node-name my_node my_package
+\end{lstlisting}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.75\textwidth]{2/p2.3-1}
+\end{figure}
+\item Build a package
+\begin{lstlisting}[language=bash]
+colcon build --packages-select my_package
+\end{lstlisting}
+\begin{figure}[h]
+	\setlength{\leftskip}{2.4em}
+	\includegraphics[width=0.94\textwidth]{2/p2.3-2}
+\end{figure}
+\item Source the setup file
+\begin{lstlisting}[language=bash]
+source install/local_setup.bash
+\end{lstlisting}
 
+\item Use the package
+\begin{lstlisting}[language=bash]
+ros2 run my_package my_node
+\end{lstlisting}
+\begin{figure}[h]
+	\setlength{\leftskip}{2.4em}
+	\includegraphics[width=0.94\textwidth]{2/p2.3-3}
+\end{figure}
+
+\newpage
+\item Examine package contents
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.4\textwidth]{2/p2.3-4}
+	\end{figure}
+\item Customize \texttt{package.xml}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\textwidth]{2/p2.3-5}
+	\end{figure}
+\end{enumerate}
 
 
 
