@@ -1,4 +1,4 @@
-\babel@toc {english}{}
+\babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {0}Setup}{2}{section.0}%
 \contentsline {section}{\numberline {1}Beginner: CLI tools}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Configuring environment}{3}{subsection.1.1}%
