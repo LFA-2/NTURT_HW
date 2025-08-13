@@ -874,6 +874,24 @@ ros2 run my_package my_node
 \end{enumerate}
 
 \newpage
+\section{Writing a simple publisher and subscriber(C++)}
+\begin{enumerate}
+	\item Create a package
+\begin{lstlisting}[language=bash]
+ros2 pkg create --build-type ament_cmake --license Apache-2.0 cpp_pubsub
+\end{lstlisting}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.45\textwidth]{2/p2.4-1}
+\end{figure}
+
+\item Write the publisher node\\
+Download the sample code:
+\begin{lstlisting}[language=bash]
+wget -O publisher_member_function.cpp https://raw.githubusercontent.com/ros2/examples/iron/rclcpp/topics/minimal_publisher/member_function.cpp
+\end{lstlisting}
+After download it, I spend some time to understand the code.
+\end{enumerate}
 
 
 
